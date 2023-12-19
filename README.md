@@ -1,4 +1,4 @@
-Our stock news notifier is a notification system designed to keep users informed about the latest developments and news related to specific stocks or the overall financial market. This tool continuously monitors various news sources, financial websites, and market updates for relevant information that may impact stock prices.
+Stock News Notifier is a notification system designed to keep users informed about the latest developments and news related to specific stocks or the overall financial market. This tool continuously monitors various news sources, financial websites, and market updates for relevant information that may impact stock prices.
 
 1. Customization: Users can select specific stocks or industries they are interested in, allowing the notifier to deliver tailored news updates.
 
