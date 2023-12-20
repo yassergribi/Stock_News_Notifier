@@ -7,8 +7,6 @@ COMPANY_NAME = "Tesla Inc"
 
 alpha_api = os.environ['ALPHA_API']
 
-print(alpha_api)
-
 STOCK_ENDPOINT = 'https://www.alphavantage.co/query'
 
 stocks_params = {
